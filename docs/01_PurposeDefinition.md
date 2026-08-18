@@ -187,17 +187,15 @@ The case study follows the standard engagement sequence used throughout this pro
 > Client context → Data → User workflow → Requirements → Prototype → Evaluation →
 > Next requirement → Technical expansion
 
-### 13. Document Scope and Boundaries
+### 13. Related Artifacts
 
-This brief defines scope and intent only. It does not report data-exploration findings,
-scientist-workflow analysis, product requirements, or interface design; each of these is
-addressed in a dedicated companion document to keep this brief concise and stable as the
-authoritative statement of what is being built and why:
+This brief stays intentionally short. Everything that needs more explanation lives in its own document:
 
-- `02` — Data Exploration Findings
-- `03` — FDE Data Reasoning
-- `04` — Scientist Workflow
-- `05` — Product Requirements
-- `06` — Data-to-Feature Mapping
-- `07` — Application User Flow
-- `08` — UI Prototype Specification
+02 — Discovery Notes
+03 — Data Exploration Findings
+04 — FDE Data Reasoning
+05 — Scientist Workflow
+06 — Product Requirements
+07 — Data-to-Feature Mapping
+08 — Application User Flow
+09 — UI Prototype Specification
